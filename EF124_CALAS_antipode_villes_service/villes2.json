@@ -1,0 +1,29 @@
+{
+  "villes":[
+    {
+    "lat": -41.29,
+    "lon":174.78,
+    "nom": "Wellington"
+  },
+  {
+    "lat":-36.85,
+    "lon":174.76,
+    "nom":"Auckland"
+  },
+  {
+    "lat":-43.53,
+    "lon":172.64,
+    "nom":"Christchurch"
+  },
+  {
+    "lat":-45.88,
+    "lon":170.50,
+    "nom":"Dunedin"
+  },
+  {
+    "lat":-37.78,
+    "lon":175.28,
+    "nom":"Hamilton"
+  }
+]
+}
